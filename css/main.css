@@ -1,0 +1,87 @@
+html{
+	overflow-x: hidden;
+}
+
+
+#backgroundMiddle{
+	background-image: url(../img/cont.jpg);
+	max-height: 100%;
+	min-height: 100%;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	background-position:center;
+}
+
+.whiteSquare{
+	width: 100%; 
+	height: 100%; 
+	background-color: white; 
+	border-radius: 0px 0px 0px 0px; 
+	background-repeat: repeat; 
+	background-size: cover; 
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	 -o-background-size: cover; 
+	 background-position: top left;
+	 font-size: 20px;
+	 padding: 10px;
+	 margin-left: 30px;
+	 margin-top: 20px;
+}
+
+#img{
+	width: 100%;
+	height: 300px;
+	margin-left: 50px;	
+}
+
+
+
+
+
+
+
+#logo{
+	float: right;
+	height: 250px;
+	width: 90%;
+	margin-top: 0px;
+}
+
+#box{
+	width: 100%; 
+	height: 100%; 
+	background-color: white; 
+	border-radius: 0px 0px 0px 0px; 
+	background-repeat: repeat; 
+	background-size: cover; 
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	 -o-background-size: cover; 
+	 background-position: top left;
+	 font-size: 20px;
+	 padding: 5px;
+	 margin-left: 30px;
+	 margin-top: 20px;
+}
+
+#greyBlock{
+	font: 13px/19px Arial,Helvetica,'Liberation Sans',FreeSans,sans-serif;
+	height: 100%;
+}
+
+.verticalLine{
+	 border-left: 4px solid #009309;
+	 padding: 5px;
+}
+
+.titleMiddle{
+	text-align: center;
+}
+
+.hrStyle{
+	border: 2px solid #009309;
+	width: 100px;
+}
